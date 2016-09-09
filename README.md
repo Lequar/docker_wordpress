@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Visible Wordpress Starter
 
 A Docker Wordpress development environment by the team at [Visible](https://visible.vc/) and some awesome [contributors](https://github.com/visiblevc/wordpress-starter/graphs/contributors). Our goal is to make Wordpress development slightly less frustrating.
@@ -140,6 +141,10 @@ npm run wp db import /data/database.sql
 ## Development
 
 You can find Development instructions in the [Wiki](https://github.com/visiblevc/wordpress-starter/wiki/Development).
+=======
+# docker_wordpress
+Base to develop wordpress with docker
+>>>>>>> 84d931905f6f9bd524566bc2535bb7986382aad3
 =======
 # docker_wordpress
 Base to develop wordpress with docker
